@@ -3,3 +3,5 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	It kind of process or prepares the files that will be included in a commit.
+
+//Like this is getting weird when you actually have no help at all and you're just a fucking designer trying to expand his funcking mind and just be better, form himself and the environment surrounding him but... I'M STILL FUNCKING DOING IT, and you fucking bitches can go atraight to fucking hell. MOTHERFUCKERS.
