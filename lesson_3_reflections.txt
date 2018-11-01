@@ -1,3 +1,5 @@
 
  When would you want to use a remote repository rather than keeping all your work local?
   Maybe when you are not working alone. Like, when someone else is also working in the same project and it is necessary to delegate and work separately...
+
+Let's make some little changes here, so i can kind of pull the new content into my local repository.
